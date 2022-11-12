@@ -1,0 +1,10 @@
+﻿axxposplit/Release
+axxposplit/ReadMe.txt
+Makefile
+navtxtsplit.c
+navtxtsplit.vcxproj
+navtxtsplit.vcxproj.filters
+navtxtsplit.vcxproj.user
+
+.fake
+.vscode
