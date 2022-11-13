@@ -1,4 +1,4 @@
-# Microsoft Dynamics NAV/AX Tools
+# Microsoft Dynamics AX Tool
 
 ## XPO file splitter
 
